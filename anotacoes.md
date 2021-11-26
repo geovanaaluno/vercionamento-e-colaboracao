@@ -16,4 +16,9 @@ União de duas branches
 esse repositório para seu computador,trabalha se nele e então é pedida a permissão
 para atualizar as alterações online.
 
+##Push
+Envia o código para o repositório online.
+
+
+
 
