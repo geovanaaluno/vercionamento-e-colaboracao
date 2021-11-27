@@ -1,13 +1,34 @@
-RepositÛrio … a pasta do projeto
+## Minhas anota√ß√µes
+##Reposit√≥rio
+√â a pasta do projeto
 
-commit:… um grupo de alteraÁıes no cÛdigo
+## commit
+√â um grupo de altera√ß√µes no c√≥digo
 
-Branch: S„o ramificaÁıes do projeto, servem para separar grandes modificaÁıes e evitam criar problemas no cÛdigo principal.
+## Branch
+S√£o ramifica√ß√µes do projeto, servem para separar grandes modifica√ß√µes e evitam criar problemas no c√≥digo principal.
 
-Merge: Uni„o de duas branches
+## Merge
+Uni√£o de duas branches
 
-Clone: … como uma branch de um repositÛrio online em um repositÛrio local
-.Quando se deseja trabalhar em um repositÛrio hospedado no github, clona-se
-esse repositÛrio para seu computador,trabalha se nele e ent„o È pedida a permiss„o
-para atualizar as alteraÁıes online.
+## Clone
+√â como uma branch de um reposit√≥rio online em um reposit√≥rio local
+.Quando se deseja trabalhar em um reposit√≥rio hospedado no github, clona-se
+esse reposit√≥rio para seu computador,trabalha se nele e ent√£o √© pedida a permiss√£o
+para atualizar as altera√ß√µes online.
+
+## Pull
+√â a atualiza√ß√£o do reposi√≥rio local. √â feito um merge do reposit√≥rio
+online com o local
+
+## Push
+envia codigo para reposit√≥rio online
+
+## Fork
+√â como um clone, por√©m dentro do github. isso quer dizer que o repositorio n√£o vai ser baixado para o seu computador, mas ser√°
+criado um igual em sua conta
+
+## Pull Request
+√â um pedido que se faz ao dono do reposit√≥rio para que esse atualize o c√≥digo dele com o seu c√≥digo. Ou seja voc~e pede para o projeto ao qual voc~e quer contribuir adicione suas modifica√ß√µes ao projeto oficial.
+
 
